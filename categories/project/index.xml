@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonis Skandalis</title>
+    <link>http://antska.com/categories/project/index.xml</link>
+    <description>Recent content on Antonis Skandalis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://antska.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NLG Crawling &amp; Archiving</title>
+      <link>http://antska.com/project/nlg/</link>
+      <pubDate>Thu, 17 Nov 2016 01:02:00 +0200</pubDate>
+      
+      <guid>http://antska.com/project/nlg/</guid>
+      <description>&lt;p&gt;NLG project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WID</title>
+      <link>http://antska.com/project/wid/</link>
+      <pubDate>Thu, 17 Nov 2016 01:01:45 +0200</pubDate>
+      
+      <guid>http://antska.com/project/wid/</guid>
+      <description>&lt;p&gt;WID project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Match the News</title>
+      <link>http://antska.com/project/matchthenews/</link>
+      <pubDate>Thu, 17 Nov 2016 00:45:23 +0200</pubDate>
+      
+      <guid>http://antska.com/project/matchthenews/</guid>
+      <description>&lt;p&gt;Match the News project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

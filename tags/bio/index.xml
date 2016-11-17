@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonis Skandalis</title>
+    <link>http://antska.com/tags/bio/index.xml</link>
+    <description>Recent content on Antonis Skandalis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://antska.com/tags/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://antska.com/about/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://antska.com/about/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;the-story-of-my-life-tl-dr&#34;&gt;The story of my life - TL;DR&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Borned in Athens at 1993 (23 years old). Until the age of 18 I was living in Paros, an island in the center of Cyclades in Greece. At the age of 18, I went back to Athens to study Informatics at the Athens University of Economics and Business(&lt;a href=&#34;http://www.aueb.gr&#34;&gt;AUEB&lt;/a&gt;). As the years went by, I was loving programming more and more by attending my university lessons and completing projects.&lt;/p&gt;
+
+&lt;p&gt;I had found my interest after all. Computers and specifically programming. This is what I wanted to do in my life. The fact that you can create something and then see the result, it&amp;rsquo;s something I love and get passioned about. Simply by giving your brain the satisfaction it requires and the motivation it needs to keep on.&lt;/p&gt;
+
+&lt;p&gt;At the age of 23 and when I had almost finished with my studies, I was interested in writing a diploma thesis. So, together with the professor &lt;a href=&#34;http://www.lix.polytechnique.fr/Labo/Michalis.Vazirgiannis/&#34;&gt;Michalis Vazirgiannis&lt;/a&gt; and my supervisor &lt;a href=&#34;http://www.db-net.aueb.gr/meladianos/&#34;&gt;Polykarpos Meladianos&lt;/a&gt; , I created a Chrome extension(&lt;a href=&#34;https://chrome.google.com/webstore/detail/match-the-news/egccnhfjlnjkmimhnlfmiilhdaajlbpg&#34;&gt;link&lt;/a&gt;) that recommends news regarding the websites you are browsing, called Match The News(&lt;a href=&#34;http://matchthenews.org&#34;&gt;website&lt;/a&gt;). In this project, 2 students from &lt;a href=&#34;https://www.lix.polytechnique.fr/&#34;&gt;LiX&lt;/a&gt; - Ecole Polytechnique contributed as well.&lt;/p&gt;
+
+&lt;p&gt;At the time the Match The News project was completed, I started working on a project of LiX (&lt;a href=&#34;http://www.lix.polytechnique.fr/dascim/&#34;&gt;Data Science and Mining team&lt;/a&gt;) at &lt;a href=&#34;https://www.polytechnique.edu/en&#34;&gt;Ecole Polytechnique&lt;/a&gt; . The project was to build a solid and scalable database as well as web services for the WID (World Income Database) project of the Paris School of Economics(&lt;a href=&#34;http://www.parisschoolofeconomics.eu/en/&#34;&gt;PSE&lt;/a&gt;). The project lasted 9 months, and it is now running at a Beta stage.&lt;/p&gt;
+
+&lt;p&gt;Now, I am currently working on a project at the Data &amp;amp; Web Mining research group (&lt;a href=&#34;http://www.db-net.aueb.gr/&#34;&gt;DB-net&lt;/a&gt;) in Athens, Greece. The subject of the project is crawling and archiving of the Greek Internet as part of the long-term web preservation program of the &lt;a href=&#34;http://www.nlg.gr&#34;&gt;National Library of Greece&lt;/a&gt; .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2016 - Bachelor&amp;rsquo;s Degree ( &lt;sup&gt;7.2&lt;/sup&gt;/&lt;sub&gt;10&lt;/sub&gt; ), Computer Science, Athens University of Economics and Business&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2011 - High School Degree ( &lt;sup&gt;19&lt;/sup&gt;&amp;frasl;&lt;sub&gt;20&lt;/sub&gt; ), High School of Paros&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;experience&#34;&gt;Experience&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;November 2016 - Now&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Software Engineer at DB-net research group of Athens University of Economics and Business, Greece.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;March 2016 - November 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Software Engineer at Data Science and Mining research group of LiX, Ecole Polytechnique, France.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;September 2015 - February 2016&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;CSLab Administrator at Athens University of Economics and Business, Greece.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
