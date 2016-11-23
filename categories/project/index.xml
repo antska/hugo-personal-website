@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonis Skandalis</title>
-    <link>http://antska.com/categories/project/index.xml</link>
+    <link>https://antska.github.io/categories/project/index.xml</link>
     <description>Recent content on Antonis Skandalis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://antska.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://antska.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>NLG Crawling &amp; Archiving</title>
-      <link>http://antska.com/project/nlg/</link>
+      <link>https://antska.github.io/project/nlg/</link>
       <pubDate>Thu, 17 Nov 2016 01:02:00 +0200</pubDate>
       
-      <guid>http://antska.com/project/nlg/</guid>
+      <guid>https://antska.github.io/project/nlg/</guid>
       <description>&lt;p&gt;NLG project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WID</title>
-      <link>http://antska.com/project/wid/</link>
+      <link>https://antska.github.io/project/wid/</link>
       <pubDate>Thu, 17 Nov 2016 01:01:45 +0200</pubDate>
       
-      <guid>http://antska.com/project/wid/</guid>
+      <guid>https://antska.github.io/project/wid/</guid>
       <description>&lt;p&gt;WID project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Match the News</title>
-      <link>http://antska.com/project/matchthenews/</link>
+      <link>https://antska.github.io/project/matchthenews/</link>
       <pubDate>Thu, 17 Nov 2016 00:45:23 +0200</pubDate>
       
-      <guid>http://antska.com/project/matchthenews/</guid>
+      <guid>https://antska.github.io/project/matchthenews/</guid>
       <description>&lt;p&gt;Match the News project.&lt;/p&gt;
 </description>
     </item>

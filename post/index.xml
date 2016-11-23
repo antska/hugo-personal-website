@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Antonis Skandalis</title>
-    <link>http://antska.com/post/index.xml</link>
+    <link>https://antska.github.io/post/index.xml</link>
     <description>Recent content in Post-rsses on Antonis Skandalis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Nov 2016 00:56:42 +0200</lastBuildDate>
-    <atom:link href="http://antska.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://antska.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>init</title>
-      <link>http://antska.com/post/init/</link>
+      <link>https://antska.github.io/post/init/</link>
       <pubDate>Thu, 17 Nov 2016 00:56:42 +0200</pubDate>
       
-      <guid>http://antska.com/post/init/</guid>
+      <guid>https://antska.github.io/post/init/</guid>
       <description>&lt;p&gt;Init post.&lt;/p&gt;
 </description>
     </item>
