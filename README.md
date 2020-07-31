@@ -1,6 +1,2 @@
 # antska.github.io
-My personal page - blog ( deprecated - old version )
-
-**New website:**
-
-# http://skandalisantonis.com/
+My personal page - blog using Hugo
